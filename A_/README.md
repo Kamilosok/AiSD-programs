@@ -97,4 +97,4 @@ BRAK
 > **Source:**  
 > This problem was assigned as part of the *Algorithms & Data Structures* course (AiSD) in 2025 Summer semester at University of Wrocław by Marcin Bieńkowski
 
-[def]: ./A_/Tile_example.png
+[def]: ./Tile_example.png
